@@ -41,7 +41,7 @@ To install the package requirements on Ubuntu, it is recommended to use [apt](ht
 
 ```bash
 sudo apt-get update
-sudo apt-get install -y libarmadillo-dev libcfitsio-dev cmake libfftw3-dev libgsl-dev libhealpix-cxx-dev pkg-config build-essential
+sudo apt-get install -y libarmadillo-dev libcfitsio-dev cmake libfftw3-dev libgsl-dev libhealpix-cxx-dev pkg-config build-essential 
 ```
 
 ## Docker installation
